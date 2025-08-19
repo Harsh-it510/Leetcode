@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Harsh-it510/Leetcode/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Harsh-it510/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [2481-strictly-palindromic-number](https://github.com/Harsh-it510/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,8 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Harsh-it510/Leetcode/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harsh-it510/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2481-strictly-palindromic-number](https://github.com/Harsh-it510/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Harsh-it510/Leetcode/tree/master/0344-reverse-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Harsh-it510/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
