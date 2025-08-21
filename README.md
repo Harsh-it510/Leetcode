@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harsh-it510/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Harsh-it510/Leetcode/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/Harsh-it510/Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh-it510/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Harsh-it510/Leetcode/tree/master/0200-number-of-islands) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harsh-it510/Leetcode/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/Harsh-it510/Leetcode/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harsh-it510/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2481-strictly-palindromic-number](https://github.com/Harsh-it510/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Harsh-it510/Leetcode/tree/master/2481-strictly-palindromic-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Harsh-it510/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
