@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Harsh-it510/Leetcode/tree/master/0182-duplicate-emails) |
+| [0595-big-countries](https://github.com/Harsh-it510/Leetcode/tree/master/0595-big-countries) |
 ## Geometry
 |  |
 | ------- |
